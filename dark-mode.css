@@ -1,5 +1,5 @@
 /* General Background Color */
-body, .main-content, .container {
+body, .main-content, .container, .site-navigation {
   background-color: #1e1e1e !important;
   color: #d4d4d4 !important;
 }
