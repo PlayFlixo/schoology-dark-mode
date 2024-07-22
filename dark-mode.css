@@ -1,0 +1,22 @@
+/* General Background Color */
+body, .main-content, .container {
+  background-color: #1e1e1e !important;
+  color: #d4d4d4 !important;
+}
+
+/* Header and Footer */
+.header, .footer {
+  background-color: #333 !important;
+  color: #d4d4d4 !important;
+}
+
+/* Links and Buttons */
+a, button {
+  color: #1e90ff !important;
+}
+
+a:hover, button:hover {
+  color: #63a4ff !important;
+}
+
+/* Adjust other elements as needed */
